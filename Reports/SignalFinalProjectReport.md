@@ -55,3 +55,5 @@ ylabel('y_3(t)');
 #### b) MATLAB Solution
 
 ```matlab
+t = -5:0.01:5;
+
