@@ -10,6 +10,9 @@
 
 #### a) Handwritten Solution
 
+<img src="PART1_Q1_handwritten.jpg" alt="Handwritten1 " width="600" >
+<img src="PART1_Q1_handwrittenq.jpg" alt="Handwritten1 " width="600" >
+
 #### b) MATLAB Solution
 
 ```matlab
@@ -47,6 +50,7 @@ title('y_3(t) = y(4 - 2t)');
 xlabel('t');
 ylabel('y_3(t)');
 ```
+<img src="PART1_Q1_OUTPUT.png" width="600">
 
 ### Question2
 
@@ -55,5 +59,13 @@ ylabel('y_3(t)');
 #### b) MATLAB Solution
 
 ```matlab
-t = -5:0.01:5;
+```
+### Question3 
+
+#### a) Handwritten Solution
+
+#### b) MATLAB Solution
+
+``` matlab
+```
 
