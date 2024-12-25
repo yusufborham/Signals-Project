@@ -10,8 +10,11 @@
 
 #### a) Handwritten Solution
 
-<img src="PART1_Q1_handwritten.jpg" alt="Handwritten1 " width="600" >
-<img src="PART1_Q1_handwrittenq.jpg" alt="Handwritten1 " width="600" >
+<img src="PART1_Q1_handwritten.jpg" alt="Handwritten1 " width="400" >
+---
+
+<img src="PART1_Q1_handwrittenq.jpg" alt="Handwritten1 " width="400" >
+---
 
 #### b) MATLAB Solution
 
@@ -56,8 +59,11 @@ ylabel('y_3(t)');
 
 #### a) Handwritten Solution
 
-<img src="PART1_Q2_handwritten1.jpg" alt="Handwritten1 " width="600" >
-<img src="PART1_Q2_handwritten2.jpg" alt="Handwritten1 " width="600" >
+<img src="PART1_Q2_handwritten1.jpg" alt="Handwritten1 " width="450" >
+---
+
+<img src="PART1_Q2_handwritten2.jpg" alt="Handwritten1 " width="450" >
+--- 
 
 #### b) MATLAB Solution
 
@@ -129,7 +135,7 @@ disp('This is due to the modulation property of the Fourier Transform.');
 
 #### a) Handwritten Solution
 
-<img src="PART1_Q3_handwritten.jpg" alt="Handwritten1 " width="600" >
+<img src="PART1_Q3_handwritten.jpg" alt="Handwritten1 " width="450" >
 
 
 #### b) MATLAB Solution
@@ -700,11 +706,11 @@ end
 ```
 ### using the app
 
-> lets open the app 
+> Lets open the app 
 
 <img src="2.png" width="400">
 
-> now lets draw we enter the sample frequency and the start and end time and break points
+> Now lets draw we enter the sample frequency and the start and end time and break points
 
 <p align="center">
   <img src="3.png" width="300">
