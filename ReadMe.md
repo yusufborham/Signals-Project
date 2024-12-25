@@ -27,7 +27,7 @@ The project allows users to define, manipulate, and visualize signals with an in
 ## Files Included  
 - MATLAB App Designer file (.mlapp) for the GUI application.  
 - Documentation explaining usage and features.
-- link for a video for the GUI [Watch a video for the app]([https://www.mathworks.com/help/matlab/](https://drive.google.com/file/d/1fGWomMRnkxSqYRjvCIT2P7TEJhEiSj1y/view?usp=sharing))
+- link for a video for the GUI [Watch a video for the app](https://drive.google.com/file/d/1fGWomMRnkxSqYRjvCIT2P7TEJhEiSj1y/view?usp=sharing)
 
 
 
